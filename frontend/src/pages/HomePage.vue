@@ -12,8 +12,6 @@
 <script setup>
 import PowerUp from '../components/PowerUp.vue'
 import ProxyChecker from '../components/ProxyChecker.vue'
-import FrequentlyAsked from '../components/FrequentlyAsked.vue'
-import Tutorial from '../components/Tutorial.vue'
 import ProberFrom from '../components/ProberFrom.vue'
 import Statistic from '../components/Statistic.vue'
 import { watch, ref } from 'vue'
